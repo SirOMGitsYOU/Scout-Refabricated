@@ -9,6 +9,8 @@ Items are retained on the bag items themselves. The bag items are equipped throu
 
 ## Future Plans
 - [ ] Satchel renders on the wearer
+- [ ] 1.19.4 Build (Accepting PRs)
+- [ ] 1.20.1+ Build (Accepting PRs)
 - [x] ~~Tooltip preview of items inside bags~~
 
 ## Forge?
